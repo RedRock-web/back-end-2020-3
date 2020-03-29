@@ -4,7 +4,7 @@
 package main
 
 import (
-	"back-end/gee"
+	"awesomeProject1/gee"
 	"net/http"
 )
 
